@@ -1,4 +1,4 @@
-Typhon is twisted Python.  
+Typhon is twisted Python.
 ======
 
 
@@ -159,7 +159,7 @@ distributed under a creative common license CC BY-NC-SA 3.0.
 
   The name was chosen as an anagram of Python.
 
-  In greek mithology, [Typhon](http://felc.gdufs.edu.cn/jth/myth/Greek%20Online/Typhon.htm) is one of the largest and most fearsome of all creatures.
+  In greek mythology, [Typhon](http://felc.gdufs.edu.cn/jth/myth/Greek%20Online/Typhon.htm) is one of the largest and most fearsome of all creatures.
 
   Theres a cool t-shirt showing what Typhon is all about:
   [snakes on rbx-head](http://twinsrpnt.com/blog/?p=180)
@@ -173,4 +173,4 @@ distributed under a creative common license CC BY-NC-SA 3.0.
   - Christoph Grabo
   - Graham Batty
   - Thiago Avelino
-  - Victor Hugo Borja <vic.borja@gmail.com>  
+  - Victor Hugo Borja <vic.borja@gmail.com>
